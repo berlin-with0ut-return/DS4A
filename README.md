@@ -6,13 +6,13 @@ A project examining mental health in the tech industry
 **Business Context.** 
 The primary question investigated was:
 
-  How is productivity affected by the work environment for people with mental health disorders (MHDs)?
+ How is productivity affected by the work environment for people with mental health disorders (MHDs)?
  
 **Business Problem.** 
 
 ##### The Question
 To answer the question, we would need to look at if workers believe their productivity was affected by a mental health issue, based on work conditions.
-Instead, we could look at :
+Indirectly, this is measured by two components:
  - If you have a mental health disorder, how often do you feel that it interferes with your work *when being treated effectively?*
  - If you have a mental health disorder, how often do you feel that it interferes with your work *when* _*NOT*_* being treated effectively (i.e., when you are experiencing symptoms)?*
 
@@ -27,3 +27,8 @@ Feature Examples:
 - medical leave
 
 **Analytical Context.** The dataset consists of OSMI 2019-2014 survey results.
+
+**Results** 
+![big 4](big4.PNG)
+
+ The most impactful actions for employers to take are the so-called "Big Four": providing resources, mental health insurance, a positive work environment, and education to employees.
